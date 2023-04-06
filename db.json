@@ -1,0 +1,24 @@
+{
+  "perfil": [
+    {
+      "nombre": "Anabell Perales Torres",
+      "email": "anperales@yahoo.com",
+      "id": 1
+    },
+    {
+      "nombre": "Claudia Ramírez",
+      "email": "claudia@alura.com",
+      "id": "310ef453-c0bd-4338-91c4-b1bbe4433b97"
+    },
+    {
+      "nombre": "Coralita Frías",
+      "email": "coralita@alura.com",
+      "id": "e9b59043-7a8c-43d9-bf18-f3cfe26b6b94"
+    },
+    {
+      "nombre": "Luz Elena Navarro",
+      "email": "luz@alura.com",
+      "id": "804ba876-3a64-44a9-9261-becb23e3e579"
+    }
+  ]
+}
